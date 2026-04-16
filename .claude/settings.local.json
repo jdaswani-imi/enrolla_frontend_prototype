@@ -7,7 +7,8 @@
       "Bash(py --version)",
       "Bash(where python *)",
       "Bash(npx --version)",
-      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)"
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)",
+      "Bash(npx shadcn@latest init -d)"
     ]
   }
 }
