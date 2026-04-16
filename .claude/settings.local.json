@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(python \"C:/Users/Jason/.claude/skills/ui-ux-pro-max/scripts/search.py\" \"education SaaS dashboard enterprise management professional\" --design-system -p \"Enrolla\" -f markdown)",
+      "Bash(py --version)",
+      "Bash(where python *)",
+      "Bash(npx --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)"
+    ]
+  }
+}
