@@ -75,7 +75,20 @@
       "Read(//c/Users/Jason/.claude/skills/ui-ux-pro-max/**)",
       "Bash(python skills/ui-ux-pro-max/scripts/search.py \"education management dashboard invoice form modal\" --design-system -p \"Enrolla Invoice Builder\")",
       "Bash(python3 skills/ui-ux-pro-max/scripts/search.py \"education management dashboard invoice form modal\" --design-system -p \"Enrolla Invoice Builder\")",
-      "Bash(python \"C:\\\\Users\\\\Jason\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"education management dashboard invoice form modal\" --design-system -p \"Enrolla Invoice Builder\")"
+      "Bash(python \"C:\\\\Users\\\\Jason\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"education management dashboard invoice form modal\" --design-system -p \"Enrolla Invoice Builder\")",
+      "Bash(git push *)",
+      "Bash(grep -n \"LayoutProps\" next-env.d.ts)",
+      "Bash(cat next-env.d.ts)",
+      "Bash(python skills/ui-ux-pro-max/scripts/search.py \"invoice builder fintech SaaS admin dashboard professional\" --design-system -p \"Enrolla Invoice Builder\")",
+      "Bash(python \"C:/Users/Jason/.claude/skills/ui-ux-pro-max/scripts/search.py\" \"invoice builder fintech admin dashboard\" --design-system -p \"Enrolla\")",
+      "Bash(python scripts/search.py \"invoice builder fintech SaaS dashboard professional\" --design-system -p \"Enrolla Invoice Builder\" -f markdown)",
+      "Bash(npx playwright *)",
+      "Bash(grep -n \"Add Lead\\\\|addLead\\\\|Bilal\\\\|bell\\\\|Bell\\\\|\\\\\\\\+ Add Lead\" app/leads/page.tsx)",
+      "Bash(taskkill /F /IM node.exe /T)",
+      "Bash(taskkill /F /IM playwright.exe /T)",
+      "Bash(taskkill /F /IM chrome.exe /T)",
+      "Bash(taskkill /F /IM node.exe)",
+      "PowerShell(taskkill /F /IM node.exe)"
     ]
   }
 }
