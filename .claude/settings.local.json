@@ -104,7 +104,9 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/people)",
       "Bash(curl -s http://localhost:3000/people)",
       "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:3000/people)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype stash)",
+      "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype stash pop)"
     ]
   }
 }
