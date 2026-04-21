@@ -106,7 +106,17 @@
       "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:3000/people)",
       "Bash(git stash *)",
       "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype stash)",
-      "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype stash pop)"
+      "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype stash pop)",
+      "Bash(echo \"started $!\" sleep 6 curl -sI http://localhost:3000/students)",
+      "Bash(kill 92190)",
+      "Bash(wait 92190)",
+      "Bash(awk '/app\\\\/enrolment\\\\/page.tsx/{found=1} found{print; if\\(/^$/\\) exit}')",
+      "Bash(md5 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/app/progress/page.tsx)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/staff)",
+      "Bash(curl -s -o /dev/null -w \"status=%{http_code}\" http://localhost:3000/staff)",
+      "Bash(curl -s http://localhost:3000/staff)",
+      "Bash(lsof -i:3000)",
+      "Bash(curl -sS -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/settings)"
     ]
   }
 }
