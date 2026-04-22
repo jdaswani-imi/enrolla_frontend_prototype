@@ -119,7 +119,13 @@
       "Bash(curl -sS -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/settings)",
       "Bash(git -C /Users/macintoshhd/Desktop/enrolla_frontend_prototype log --oneline -15)",
       "Bash(echo \"Dev server PID: $!\")",
-      "Bash(curl -s http://localhost:3000 -o /dev/null -w \"%{http_code}\")"
+      "Bash(curl -s http://localhost:3000 -o /dev/null -w \"%{http_code}\")",
+      "Bash(git diff *)",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education dashboard modal drill-in data visualization\" --design-system -p \"Enrolla Heatmap Drill-in\")",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(git commit *)",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education admin dashboard SaaS assignment management modal slide-over\" --design-system -p \"Enrolla Assignments\")",
+      "Bash(python3 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/.claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS dashboard filter chips admin panel\" --design-system -p \"Enrolla Reports\")"
     ]
   }
 }
