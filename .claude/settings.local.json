@@ -125,7 +125,8 @@
       "Bash(pkill -f \"next dev\")",
       "Bash(git commit *)",
       "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education admin dashboard SaaS assignment management modal slide-over\" --design-system -p \"Enrolla Assignments\")",
-      "Bash(python3 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/.claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS dashboard filter chips admin panel\" --design-system -p \"Enrolla Reports\")"
+      "Bash(python3 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/.claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS dashboard filter chips admin panel\" --design-system -p \"Enrolla Reports\")",
+      "Bash(git reset *)"
     ]
   }
 }
