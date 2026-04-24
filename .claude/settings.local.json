@@ -127,7 +127,13 @@
       "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education admin dashboard SaaS assignment management modal slide-over\" --design-system -p \"Enrolla Assignments\")",
       "Bash(python3 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/.claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS dashboard filter chips admin panel\" --design-system -p \"Enrolla Reports\")",
       "Bash(git reset *)",
-      "Bash(git rm *)"
+      "Bash(git rm *)",
+      "Bash(python3)",
+      "Bash(python3 /Users/macintoshhd/Desktop/enrolla_frontend_prototype/.claude/skills/ui-ux-pro-max/scripts/search.py \"education admin dashboard settings forms\" --design-system -p \"Enrolla Settings\")",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS admin dashboard settings calendar\" --design-system -p \"Enrolla Academic Calendar\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/settings)",
+      "Bash(kill 36183)",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education SaaS admin dashboard finance warning banner modal\" --design-system -p \"Enrolla\")"
     ]
   }
 }
